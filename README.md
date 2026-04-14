@@ -31,8 +31,6 @@ Contoh penulisan:
 - Model: YOLOv8 (Ultralytics)
 - Arsitektur: Deep Learning (Object Detection)
 
-*(Sesuaikan dengan model yang benar-benar kamu pakai ya)*
-
 ---
 
 ## Tools & Teknologi
