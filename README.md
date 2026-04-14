@@ -310,9 +310,9 @@ cssvd-detection/
 
 | # | Role | Fokus | Tim |
 |---|------|-------|------|
-| 1 | Data Engineer | Ingestion, split, validasi | Isnaini |
+| 1 | Data Engineer | Ingestion, split, validasi | Ramdan Isnaini |
 | 2 | Data Scientist | EDA, augmentasi | Shalfa |
-| 3 | ML Engineer | YOLOv8 training | Zain |
+| 3 | ML Engineer | YOLOv8 training | Bagas Zain |
 | 4 | MLOps Engineer | Tracking, versioning, Git | Ramdan Riyadh |
 | 5 | Eval Engineer | mAP, metrics, laporan | Fayed |
 | 6 | Backend Engineer | FastAPI, ONNX export | Bagas |
