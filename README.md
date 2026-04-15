@@ -349,7 +349,7 @@ Project ini bertujuan untuk melakukan **deteksi penyakit pada daun kakao** mengg
 ## Model yang Digunakan
 
 Model yang digunakan dalam project ini adalah:
-- **Transformer-based Model** (contoh: DETR / Vision Transformer / YOLO berbasis transformer jika kamu pakai YOLOv8 bisa tulis itu)
+- **Transformer-based Model** (contoh: DETR / Vision Transformer / YOLO berbasis transformer YOLOv8)
 
 Contoh penulisan:
 - Model: YOLOv8 (Ultralytics)
